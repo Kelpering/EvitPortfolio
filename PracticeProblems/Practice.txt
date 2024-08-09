@@ -1,0 +1,153 @@
+98-383.v2021-04-29_7q.pdf
+
+1. ) B
+2. ) A
+3. ) D
+4. ) D
+5. ) D
+6. ) C
+7. ) B
+
+98-383 ITExams.pdf
+
+1. ) N Y N Y
+2. ) <"a href="carnations.html"> <img src="carnations.png"> </a>
+3. ) <ol>, <li>
+4. ) C
+5. ) <h1> </h1>, <ol> </ol>, <p>
+6. ) <a href="clients.html" target=_blank> <img src="clients.gif" alt="Clients image"> </a>
+7. ) 
+<aside>
+    <a href="#">
+    <a href="#">
+    <a href="#">
+</aside>
+
+<article>
+    <h1>Our Missions</h1>
+    <p>
+    Northwind...
+    </p>
+</article>
+
+<article>
+    <figure>
+        <img src="...">
+        <figcaption>
+            ...
+        </figcaption>
+    </figure>
+    <p>
+    Northwind Traders
+    </p>
+</article>
+
+<><>
+
+<footer>
+    <hr>
+    Copyright
+</footer>
+
+8. ) <input type="checkbox" name="subscribe" value="Yes">
+     <input type="radio" name="frequency" value="daily" checked>
+     <input type="submit" value="Submit">
+
+9. ) <a id="Section2">Section 2 </a>
+     <a href="#Section2">Section 2</a>
+
+10. ) <div> <h1>Quote from Yesterday</h1> <span>Tomorrow is not promised</span> </div>
+11. ) <article> <details> <summary>headline</summary> </details> </article>
+12. ) <h1> </h1> <hr>
+13. ) <img src="portrait.png" alt="Family Pic">
+14. ) a : link, a : visited, a : hover, a : active
+15. ) A
+16. ) N Y Y N
+17. ) Green
+18. ) D
+19. ) h1 { text-align: center; }
+20. ) Y Y Y Y 
+21. ) Red, 30px, Purple
+22. ) 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Welcome</p>
+    </body>
+</html>
+
+23. ) DOCTYPE html!, html, body, /body, /html
+24. ) head, meta charset, title, /head
+25. ) base, script, title, noscript
+
+98-383_v2018-05-17_24q.pdf
+
+1. ) N Y N Y
+2. ) <img src="portrait.png" alt="Family">
+3. ) a : link, a: visited, a: hover, a:active
+4. ) A 
+5. ) N Y Y N
+6. ) Green
+7. ) D
+8. ) h1 { text-align: center;}
+9. ) Y Y Y Y
+10. ) red, 30px, Purple
+11. ) 
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<p></p>
+</body>
+</html>
+
+12. ) doctype, html, body, /body, /html
+13. ) 
+<head>
+<meta charset="utf-8">
+<title> </title>
+</head>
+
+14. )
+<base>
+<script>
+<title>
+<noscript>
+
+15. ) 
+.welcome {
+    background-image: url (NormalLogo.png)
+}
+
+@ media only screen and (max-width: 768px) {
+    background-image: url (SmallLogo.png)
+}
+
+16. ) Y N N
+17. ) C
+18. ) color, text-indent, font-size, font-style
+19. ) N Y 
+20. ) B 
+21. ) 
+h1 {
+    color: blue;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+22. ) img src alt
+23. ) 
+<video controls> 
+    <source src="HowTo.mp4" type="video/mp4">
+    Your browser does not support playing this video
+</video>
+
+24. ) img src alt
+
